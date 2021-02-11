@@ -5,3 +5,7 @@ The purpose of this project was to learn how give the user the ability to switch
 ## Website in Light Mode
 
 ![Light Mode](light-mode.png)
+
+## Website in Dark Mode
+
+![Dark Mode](dark-mode.png)
